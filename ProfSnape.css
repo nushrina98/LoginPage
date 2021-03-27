@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    color: white;
+    font-size: 50px;
+    top: 15px;
+    border-bottom: 5px solid white;
+    margin bottom: 15px;
+    padding: 13px 0;
+    height: 100px;
+    width: 500px;
+    text-align: center;
+}
+
+.intro{
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+    top: 45px;
+    right: 45px;
+    height: 60px;
+}
+
+
+body{
+    background: url(SnapeSeverus.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+}
+
+ol{
+    font-size: 20px ;
+    font-weight: bold;
+    color: white;
+}
+
+ul{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
